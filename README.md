@@ -1,4 +1,4 @@
-# PlanetDestroyerGame
+# Planet Destroyer Game
 ## Description:
 It is a planet-destroying game. There are some moving planets. The player has a spaceship, and he can fire bullets from that spaceship. The player can also move the spaceship.
 
